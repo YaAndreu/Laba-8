@@ -1,5 +1,5 @@
 # Laba-8
-Andriu Oleshko
+Привіт я Анрій
 Це мій вебсайт, опублікований через GitHub Pages.
 
 [Перейти на сайт](https://github.io/YaAndreu/Laba-8.git)
