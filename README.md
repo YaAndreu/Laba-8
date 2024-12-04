@@ -2,4 +2,4 @@
 Andriu Oleshko
 Це мій вебсайт, опублікований через GitHub Pages.
 
-[Перейти на сайт](https://YaAndreu.github.io/Laba-8/)
+[Перейти на сайт](https://github.com/YaAndreu/Laba-8.git)
